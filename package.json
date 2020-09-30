@@ -1,6 +1,6 @@
 {
   "name": "@kot-shrodingera-team/eslint-config-germes-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "devDependencies": {
     "eslint": "^7.10.0",
     "eslint-config-airbnb-base": "^14.2.0",
