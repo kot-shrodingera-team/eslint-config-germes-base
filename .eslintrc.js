@@ -2,9 +2,6 @@ module.exports = {
   env: {
     browser: true,
   },
-  globals: {
-    worker: 'readonly',
-  },
   parserOptions: {
     ecmaVersion: 2018,
   },
